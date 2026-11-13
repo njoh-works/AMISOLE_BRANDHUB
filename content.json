@@ -1,0 +1,50 @@
+{
+  "_readme": "Edit the values below, then redeploy. Text keys match data-edit attributes in index.html. Leave a link empty to hide it.",
+  "text": {
+    "hero.kicker": "Brand hub for partners, makers and the team",
+    "hero.updated": "Last updated 12 November 2026",
+    "logo.title": "The sun, hidden in plain sight.",
+    "logo.body": "Softened junctions, room to breathe around the O, and a floating accent above the È as a quiet point of light. Three marks, each in Black and Paper.",
+    "colour.title": "Warm, faded, never neon.",
+    "colour.body": "Paper and Black lead every layout; each pillar adds one pair, as whole fields, never tints or gradients. Select a value to copy it.",
+    "type.title": "Two typefaces. One scale.",
+    "type.body": "Serif for voice and titles, grotesk for labels and structure. Hierarchy comes from position and whitespace, not from more sizes.",
+    "art.title": "Light is the protagonist.",
+    "art.body": "Shadows, squints and hard sun carry the presence of the sun without ever showing it. Real skin, film warmth, the product worn rather than posed.",
+    "tpl.title": "Six layouts, one grid.",
+    "tpl.body": "Every page sits on a 4 × 4 grid with columns at 23, 521, 997 and 1458, and one header line at the top.",
+    "labels.title": "The quiet details.",
+    "labels.body": "Logo-free on the outside, considered on the inside. First concepts for production review; sizes and suppliers to be confirmed.",
+    "hats.title": "UV Baseball Cap.",
+    "hats.body": "Two lines today, a third to come. Clean, minimal and logo-free, with UPF 50+ protection built into the fabric.",
+    "dl.title": "The asset library.",
+    "dl.body": "Master logos, fonts, photography and templates live in one Google Drive folder. Download them here, or open the full folder.",
+    "contact.name": "[Name]",
+    "contact.email": "[email@amisole.com]"
+  },
+  "links": {
+    "assetFolder": "https://drive.google.com/drive/folders/1QvbgZ1mYqx5m-B-NKUnSHj3_5v93LBdH",
+    "deck": "",
+    "guidelines": ""
+  },
+  "downloads": [
+    {
+      "title": "Logo pack (wordmark, stacked, monogram · SVG, PNG)",
+      "type": "ZIP",
+      "updated": "",
+      "url": ""
+    },
+    {
+      "title": "Brand guidelines",
+      "type": "PDF",
+      "updated": "",
+      "url": ""
+    },
+    {
+      "title": "Partner presentation template",
+      "type": "PPTX",
+      "updated": "",
+      "url": ""
+    }
+  ]
+}
